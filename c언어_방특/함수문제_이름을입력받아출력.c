@@ -25,5 +25,7 @@ int main(void) {
 	// 사용자가 이름을 입력하면 그 값이 name배열에 저장되어서 name의 주소는 fclass의
 	// 매개변수이니 값이 name에 값이 들어오면 char*name 에는 name[0] 의 주소를 가지게 됨
 	// 그 주소를 가지고 출력하면 됨
+
+	printf("깃허브 연동 실험");
 	return 0;
 }
